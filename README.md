@@ -8,5 +8,10 @@ I am currently developing projects, in order to maintain practice and polish my 
 
 My current goal is to continue training as a programmer, working on my weaknesses and working around my strengths, to be able to offer high quality and intuitive projects for the user.
 
-If you want to contact, here is my email! 
+If you want to contact, here is my email:
 darioperez201864@gmail.com
+
+And my number:
++5401123873414
+
+Have a great day!
