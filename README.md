@@ -1,6 +1,6 @@
 Hello! My name is Darío Pérez 👩🏾‍💻
 
-I am a Full Stack Developer. I tend to use HTML, TailwindCSS, React-Redux, Node.js, Sequelize, among other technologies. 
+I am a Full Stack Developer. I tend to use HTML, TailwindCSS, React-Redux, Node.js, Express, PostreSQL, Sequelize, among other technologies. 
 
 I Experience in web page development, also team-working, using Scrum technologies and optimizing development processes.
 
