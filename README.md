@@ -10,7 +10,6 @@ My current goal is to continue training as a programmer, working on my weaknesse
 
 If you want to contact, here is my email:
 darioperez201864@gmail.com
-
 And my number:
 +5401123873414
 
